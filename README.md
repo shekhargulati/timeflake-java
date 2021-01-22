@@ -1,5 +1,7 @@
 # Timeflake-Java
 
+![Timeflake-Java CI](https://github.com/shekhargulati/timeflake-java/workflows/Timeflake-Java%20CI/badge.svg)
+
 Timeflake-Java is the Java port of [timeflake](https://github.com/anthonynsimon/timeflake) Python library.
 
 > Timeflake is a 128-bit, roughly-ordered, URL-safe UUID. Inspired by Twitter's Snowflake, Instagram's ID and Firebase's PushID.
